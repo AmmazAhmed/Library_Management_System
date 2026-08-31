@@ -1,0 +1,53 @@
+
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Object Files
+*.o
+*.obj
+
+# Debug / Build Files
+*.d
+*.pdb
+*.ilk
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+
+# CMake Build Files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+out/
+
+# Debugging / Temporary Files
+*.log
+*.tmp
+*.bak
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor Temporary Files
+*.swp
+*.swo
+*~
+
+# ================================
+# Project Data Files
+# ================================
+
+# Uncomment these if you DON'T want
+# library data/credentials uploaded to GitHub:
+# admin.txt
+# books.txt
+# students.txt
+# issued.txt
