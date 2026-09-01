@@ -47,7 +47,7 @@ Thumbs.db
 
 # Uncomment these if you DON'T want
 # library data/credentials uploaded to GitHub:
-# admin.txt
-# books.txt
-# students.txt
-# issued.txt
+admin.txt
+books.txt
+students.txt
+issued.txt
